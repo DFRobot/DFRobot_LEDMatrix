@@ -1,0 +1,71 @@
+
+#######################################
+# Syntax Map For DFRobot_LEDMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_LEDMatrix	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+disPlay	KEYWORD2
+cleanDisPlay	KEYWORD2
+
+
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+eHeart	LITERAL1
+eSmallHeart	LITERAL1
+eYes	LITERAL1
+eNo	LITERAL1
+eHappy	LITERAL1
+eSad	LITERAL1
+eConfused	LITERAL1
+eAngry	LITERAL1
+eAsleep	LITERAL1
+eSurprised	LITERAL1
+eSilly	LITERAL1
+eFabulous	LITERAL1
+eMeh	LITERAL1
+eTShirt	LITERAL1
+eRollerskate	LITERAL1
+eDuck	LITERAL1
+eHouse	LITERAL1
+eTortoise	LITERAL1
+eButterfly	LITERAL1
+eStickFigure	LITERAL1
+eGhost	LITERAL1
+eSword	LITERAL1
+eSkull	LITERAL1
+eUmbrella	LITERAL1
+eSnake	LITERAL1
+eRabbit	LITERAL1
+eCow	LITERAL1
+eQuarterNote	LITERAL1
+eEigthNote	LITERAL1
+ePitchfork	LITERAL1
+eTarget	LITERAL1
+eTriangle	LITERAL1
+eLeftTriangle	LITERAL1
+eChessboard	LITERAL1
+eDiamond	LITERAL1
+eSmallDiamond	LITERAL1
+eSquare	LITERAL1
+eSmallSquare	LITERAL1
+eScissors	LITERAL1
+eGiraffe	LITERAL1
