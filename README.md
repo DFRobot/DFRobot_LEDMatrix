@@ -1,7 +1,7 @@
 DFRobot_LEDMatrix
 ===========================
 
-* [English Version](./README.md)
+* [English Version](./README_CN.md)
 
 DFR1135 is an 8x8 dot matrix screen that can display custom characters, built-in characters, and expressions.
 
