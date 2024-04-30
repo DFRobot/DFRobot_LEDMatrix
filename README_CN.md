@@ -9,7 +9,7 @@ DFR1135是一个8*8的点阵屏，能够显示自定义字符、内置字符和�
 
 ## 产品链接（https://www.dfrobot.com）
 
-    SKU：SEN0540
+    SKU：DFR1135
   
 ## 目录
 
