@@ -9,7 +9,7 @@ DFR1135 is an 8x8 dot matrix screen that can display custom characters, built-in
 
 ## Product Link (https://www.dfrobot.com)
 
-    SKU：SEN0540
+    SKU：DFR1135
   
 ## Table of Contents
 
